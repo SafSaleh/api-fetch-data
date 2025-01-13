@@ -7,7 +7,7 @@
         "contact_number": "07999954552",
         "support_email_address": "homeoffice@support.zendesk.com",
         "image_url": "https://media.newhomeinc.com/348/2023/2/24/Morehead-Low-Country-1.jpg?width=1920&ois=5dafa51&fit=bounds&height=1280",
-        "video_url": "https://www.example.com/video/homebrand_video.mp4",
+        "video_url": "https://www.youtube.com/watch?v=ucd_cjWZZ0A",
         "social_page": "https://www.facebook.com/homebrand"
       }
     },
@@ -18,7 +18,7 @@
         "contact_number": "0799554557854",
         "support_email_address": "officebrand@zendesk.com",
         "image_url": "https://static1.gensler.com/uploads/hero_element/20772/thumb_desktop/thumbs/221201_US-Workplace-Survey_1_1669939238_1024x576.jpg",
-        "video_url": "https://www.example.com/video/officebrand_video.mp4",
+        "video_url": "https://www.youtube.com/watch?v=4iisysmwB_k",
         "social_page": "https://www.linkedin.com/company/officebrand"
       }
     },
@@ -40,7 +40,7 @@
         "contact_number": "07999958445",
         "support_email_address": "workbrand@zendesk.com",
         "image_url": "https://img.freepik.com/premium-vector/work-lettering-modern-hand-written-text-sticker-planner-bright-work-text-planning-concept-vector-illustration_565728-507.jpg",
-        "video_url": "https://www.example.com/video/workbrand_video.mp4",
+        "video_url": "https://www.youtube.com/watch?v=s1cqNOY16h4",
         "social_page": "https://www.instagram.com/workbrand"
       }
     }
